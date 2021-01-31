@@ -1,5 +1,7 @@
 # Quantum Poker
 
+![](figures/gameplay.gif)
+
 This game is inspired by poker, with a quantum flavour! This game requires 3 players. Each player is assigned a qubit in the quantum circuit, and the objective of the game is to make sure that your qubit is in the **|1>** state upon measurement!
 
 ## Card Deck
